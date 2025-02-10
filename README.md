@@ -1,5 +1,5 @@
 # explosion-physics
-Raylib and Physac examples from a youtube video
+Raylib and Physac examples from a youtube video. May or may not get to adding description. Haven't uploaded yet as of writing this. See most recent on [channel](https://www.youtube.com/@joebulfer) to see tutorial.
 
 ### physac simple explosion
 
